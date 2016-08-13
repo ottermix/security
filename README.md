@@ -11,6 +11,7 @@ General thoughts and links for security.
 Encryption, Password Manager and other tools for your safety
 
 * [1Password](https://agilebits.com/onepassword/mac): Store all your passwords, PIN codes, documents, credit cards and more. Change weak or duplicate passwords to improve your online security. Save time on the web by signing in to accounts with a single click.
+* [mSecure](https://www.msecure.com/): mSecure is the most secure and straightforward solution to storing, sharing, and managing passwords and sensitive information.
 * [BoxCryptor](https://www.boxcryptor.com): Encrypt your files on all cloud storage providers and across all your devices.
 * [Whisply](https://whisp.ly/): Transfer files via Dropbox, Google Drive or OneDrive protected by leading end-to-end encryption technology – directly in your browser without any software. Send the download link through the channel of your choice and add an optional PIN or password.
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html): Tracking and notifications of outbound traffic. Little Snitch intercepts these unwanted connection attempts, and lets you decide how to proceed.
