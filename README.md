@@ -1,5 +1,6 @@
 # Security
-General thoughts and links for security.
+
+General thoughts and links for security.  A good portion of this information is here for Mac users, but some applications and websites relate to others as well.
 
 ## Websites
 
