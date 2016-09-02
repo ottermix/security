@@ -7,6 +7,11 @@ General thoughts and links for security.  A good portion of this information is 
 * [DuckDuckGo](http://duckduckgo.com): A tracking-free search engine
 * [Just Delete Me](http://justdelete.me/): A website with a list of websites and how to: 1) see how difficult it is to remove your account information, and 2) instructions on how to actually remove account information.
 
+## Anonymity / Encryption Tools for Communication
+
+* [NordVPN](http://nordvpn.com/?ref=368132e7): NordVPN is a VPN that offers a _no log_ policy and [double encryption](https://nordvpn.com/features/double-encryption-double-vpn/) (2048-bit vs a regulard 128 or 256bit)
+* [Tor](https://www.torproject.org/): Tor offers anonymous browsing and it was originally developed by the US Navy and continues to be a great resource for many journalists and privacy-seekers.
+
 ## Applications (Mac)
 
 Encryption, Password Manager and other tools for your safety.
