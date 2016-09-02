@@ -27,4 +27,5 @@ Encryption, Password Manager and other tools for your safety.
 
 ## Important Videos
 
-* [Social Engineering / Black Hacker Dangers](https://www.youtube.com/watch?v=bjYhmX_OUQQ) - A video that greatly explains the actual dangers of digital life.
+* [Social Engineering / Black Hacker Dangers](https://www.youtube.com/watch?v=bjYhmX_OUQQ): A video that greatly explains the actual dangers of digital life.
+* [State of the Onion](https://www.youtube.com/watch?v=fOwYgAS4TXE): What is TOR?  They also address some comments that the media has made about the security of TOR.
