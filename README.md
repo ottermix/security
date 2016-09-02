@@ -27,4 +27,4 @@ Encryption, Password Manager and other tools for your safety.
 
 ## Important Videos
 
-* [Social Engineering / Black Hacker Dangers](https://www.youtube.com/watch?v=bjYhmX_OUQQ)
+* [Social Engineering / Black Hacker Dangers](https://www.youtube.com/watch?v=bjYhmX_OUQQ) - A video that greatly explains the actual dangers of digital life.
