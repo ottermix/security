@@ -24,3 +24,7 @@ Encryption, Password Manager and other tools for your safety.
 
 * [Awesome Security](https://github.com/sbilly/awesome-security): A collection of awesome software, libraries, documents, books, resources and cool stuff about security.
 * [Awesome SEC Talks](https://github.com/PaulSec/awesome-sec-talks): A collected list of awesome security talks
+
+## Important Videos
+
+* [Social Engineering / Black Hacker Dangers](https://www.youtube.com/watch?v=bjYhmX_OUQQ)
