@@ -36,3 +36,9 @@ Encryption, Password Manager and other tools for your safety.
 * [Social Engineering / Black Hacker Dangers](https://www.youtube.com/watch?v=F78UdORll-Q): A video that greatly explains the actual dangers of digital life.
 * [State of the Onion](https://www.youtube.com/watch?v=fOwYgAS4TXE): What is TOR?  They also address some comments that the media has made about the security of TOR.
 * [Tapping Of Internet Pipes](https://www.youtube.com/watch?v=h7guR5ei30Y): An interesting video of an artist taking photos of the underwater internet cables.
+
+## Geeking Out
+
+If you feel a little more technical and want to dive into some advanced topics, then you can geek out with these links:
+
+* [Mac / OS Security Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
