@@ -28,6 +28,13 @@ Encryption, Password Manager and other tools for your safety.
 * [Epic Browser](https://www.epicbrowser.com/) This browser blocks ads, tracking cookies, social boxes and widgets (until you interact with them), blocks tracking scripts and modules from loading (which results in faster-loading web pages), and sandboxes third-party processes and plugins. Epic Browser even encrypts your connection whenever possible (largely by shunting to HTTPS/SSL whenever it's available), routes your browsing through a proxy, and protects you from widgetjacking or sidejacking when you're browsing over Wi-Fi. 
 * [Cryptomator](https://cryptomator.org/) Encrypt your files for the cloud.  This is a great tool for making sure your files stay encrypted and obfuscated and only appear on your computer / other computers that have the password.
 
+## Further Reading & Resources
+
+* [PRISM Break](https://prism-break.org/en/) Resources and tools to stay up to date and secure
+* [Alternative Internet](https://redecentralize.github.io/alternative-internet/) Websites for anon and privacy
+* [Redecentralize](http://redecentralize.org/) News and updates for things that are becoming more decentralized
+* [Privacy Tools](https://privacytoolsio.github.io/privacytools.io/) A decent list of privacy tools in addition to those listed above.
+
 ## Technical Links
 
 * [Awesome Security](https://github.com/sbilly/awesome-security): A collection of awesome software, libraries, documents, books, resources and cool stuff about security.
