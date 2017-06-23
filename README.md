@@ -27,6 +27,7 @@ Encryption, Password Manager and other tools for your safety.
 * [GPGTools](https://gpgtools.org/): A great introductory application or using GPG crypto with Mail.app
 * [Epic Browser](https://www.epicbrowser.com/) This browser blocks ads, tracking cookies, social boxes and widgets (until you interact with them), blocks tracking scripts and modules from loading (which results in faster-loading web pages), and sandboxes third-party processes and plugins. Epic Browser even encrypts your connection whenever possible (largely by shunting to HTTPS/SSL whenever it's available), routes your browsing through a proxy, and protects you from widgetjacking or sidejacking when you're browsing over Wi-Fi. 
 * [Cryptomator](https://cryptomator.org/) Encrypt your files for the cloud.  This is a great tool for making sure your files stay encrypted and obfuscated and only appear on your computer / other computers that have the password.
+* [ImageOptim](https://imageoptim.com/mac) This is a good tool for general image optimizations but it will also strip the metadata (name, location, etc) of the photo.  Good for security.
 
 ## Further Reading & Resources
 
