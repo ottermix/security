@@ -36,6 +36,7 @@ Encryption, Password Manager and other tools for your safety.
 * [Redecentralize](http://redecentralize.org/) News and updates for things that are becoming more decentralized
 * [Privacy Tools](https://privacytoolsio.github.io/privacytools.io/) A decent list of privacy tools in addition to those listed above.
 * [On Listening Devices](https://gizmodo.com/dont-buy-anyone-an-echo-1820981732) Your family members do not need an Amazon Echo or a Google Home or an Apple HomePod or whatever that one smart speaker that uses Cortana is called. And you don’t either.
+* [Browsing Safely](https://gist.github.com/atcuno/3425484ac5cce5298932) Great information on how to use a Browser to safely cruise the web.
 
 ## Technical Links
 
