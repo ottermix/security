@@ -12,6 +12,7 @@ General thoughts and links for security.  A good portion of this information is 
 
 * [NordVPN](http://nordvpn.com/?ref=368132e7): NordVPN is a VPN that offers a _no log_ policy and [double encryption](https://nordvpn.com/features/double-encryption-double-vpn/) (2048-bit vs a regulard 128 or 256bit)
 * [Tor](https://www.torproject.org/): Tor offers anonymous browsing and it was originally developed by the US Navy and continues to be a great resource for many journalists and privacy-seekers.
+* [ProtonMail](https://protonmail.com/): A fantastic service providing secure email with servers based in Switzerland.  It is open source which means it has been audited by the public eye.
 
 ## Applications (Mac)
 
