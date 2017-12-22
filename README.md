@@ -14,21 +14,23 @@ General thoughts and links for security.  A good portion of this information is 
 * [Tor](https://www.torproject.org/): Tor offers anonymous browsing and it was originally developed by the US Navy and continues to be a great resource for many journalists and privacy-seekers.
 * [ProtonMail](https://protonmail.com/): A fantastic service providing secure email with servers based in Switzerland.  It is open source which means it has been audited by the public eye.
 
-## Applications (Mac)
+## Applications
 
 Encryption, Password Manager and other tools for your safety.
 
 * [Santa](https://github.com/google/santa): Santa is a binary whitelisting/blacklisting system for macOS. It consists of a kernel extension that monitors for executions, a userland daemon that makes execution decisions based on the contents of a SQLite database, a GUI agent that notifies the user in case of a block decision and a command-line utility for managing the system and synchronizing the database with a server.  You can [download it here](https://github.com/google/santa/releases) under "downloads" of the latest version.
-* [1Password](https://agilebits.com/onepassword/mac): Store all your passwords, PIN codes, documents, credit cards and more. Change weak or duplicate passwords to improve your online security. Save time on the web by signing in to accounts with a single click.
+* [1Password](https://agilebits.com/onepassword) [Win / Mac / Linux]: Store all your passwords, PIN codes, documents, credit cards and more. Change weak or duplicate passwords to improve your online security. Save time on the web by signing in to accounts with a single click.
 * [mSecure](https://www.msecure.com/): mSecure is the most secure and straightforward solution to storing, sharing, and managing passwords and sensitive information.
-* [BoxCryptor](https://www.boxcryptor.com): Encrypt your files on all cloud storage providers and across all your devices.
-* [Whisply](https://whisp.ly/): Transfer files via Dropbox, Google Drive or OneDrive protected by leading end-to-end encryption technology – directly in your browser without any software. Send the download link through the channel of your choice and add an optional PIN or password.
-* [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html): Tracking and notifications of outbound traffic. Little Snitch intercepts these unwanted connection attempts, and lets you decide how to proceed.
-* [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html) Tracking camera and mic activity to see if someone is watching you. With Micro Snitch you always know whether some app is currently using your microphone, and its logging facilities allow you to reveal any suspicious activities later on.  However, you can always do [what Mark Zuckerberg does](https://www.hackread.com/mark-zuckerbergs-laptop-cam-tape/)...
-* [GPGTools](https://gpgtools.org/): A great introductory application or using GPG crypto with Mail.app
-* [Epic Browser](https://www.epicbrowser.com/) This browser blocks ads, tracking cookies, social boxes and widgets (until you interact with them), blocks tracking scripts and modules from loading (which results in faster-loading web pages), and sandboxes third-party processes and plugins. Epic Browser even encrypts your connection whenever possible (largely by shunting to HTTPS/SSL whenever it's available), routes your browsing through a proxy, and protects you from widgetjacking or sidejacking when you're browsing over Wi-Fi. 
-* [Cryptomator](https://cryptomator.org/) Encrypt your files for the cloud.  This is a great tool for making sure your files stay encrypted and obfuscated and only appear on your computer / other computers that have the password.
-* [ImageOptim](https://imageoptim.com/mac) This is a good tool for general image optimizations but it will also strip the metadata (name, location, etc) of the photo.  Good for security.
+* [BoxCryptor](https://www.boxcryptor.com) [Mac / Win / Linux] Encrypt your files on all cloud storage providers and across all your devices.
+* [Whisply](https://whisp.ly/) Transfer files via Dropbox, Google Drive or OneDrive protected by leading end-to-end encryption technology – directly in your browser without any software. Send the download link through the channel of your choice and add an optional PIN or password.
+* [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) [Mac] Tracking and notifications of outbound traffic. Little Snitch intercepts these unwanted connection attempts, and lets you decide how to proceed.
+* [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html) [Mac] Tracking camera and mic activity to see if someone is watching you. With Micro Snitch you always know whether some app is currently using your microphone, and its logging facilities allow you to reveal any suspicious activities later on.  However, you can always do [what Mark Zuckerberg does](https://www.hackread.com/mark-zuckerbergs-laptop-cam-tape/)...
+* [GPGTools](https://gpgtools.org/) [Mac] A great introductory application or using GPG crypto with Mail.app
+* [Epic Browser](https://www.epicbrowser.com/) [Mac / Win / Linux] This browser blocks ads, tracking cookies, social boxes and widgets (until you interact with them), blocks tracking scripts and modules from loading (which results in faster-loading web pages), and sandboxes third-party processes and plugins. Epic Browser even encrypts your connection whenever possible (largely by shunting to HTTPS/SSL whenever it's available), routes your browsing through a proxy, and protects you from widgetjacking or sidejacking when you're browsing over Wi-Fi. 
+* [Firefox](https://www.mozilla.org/) [Mac / Win/ Linux] Firefox has come out with some great privacy tools and can be used as your primary browser.
+* [Cryptomator](https://cryptomator.org/) [Win / Mac / Linux] Encrypt your files for the cloud.  This is a great tool for making sure your files stay encrypted and obfuscated and only appear on your computer / other computers that have the password.
+* [ImageOptim](https://imageoptim.com/mac) [Mac] This is a good tool for general image optimizations but it will also strip the metadata (name, location, etc) of the photo.  Good for security.
+* [Hardentools](https://github.com/securitywithoutborders/hardentools) [Win] Gives you the ability to disable the risky features of Windows.  You are most likely not going to use these feautres unless you are an enterprise customer.
 
 ## Further Reading & Resources
 
