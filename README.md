@@ -32,6 +32,10 @@ Encryption, Password Manager and other tools for your safety.
 * [ImageOptim](https://imageoptim.com/mac) [Mac] This is a good tool for general image optimizations but it will also strip the metadata (name, location, etc) of the photo.  Good for security.
 * [Hardentools](https://github.com/securitywithoutborders/hardentools) [Win] Gives you the ability to disable the risky features of Windows.  You are most likely not going to use these feautres unless you are an enterprise customer.
 
+## Security Measures
+
+* [Canary Tokens](https://www.stationx.net/canarytokens/) Create little files that are placed on your computer / dropbox / etc. that will notify you if someone accesses them without your permission.  These are fake files to trip hackers since they will be looking for this information.
+
 ## Further Reading & Resources
 
 * [PRISM Break](https://prism-break.org/en/) Resources and tools to stay up to date and secure
