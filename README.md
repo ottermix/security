@@ -38,6 +38,7 @@ Encryption, Password Manager and other tools for your safety.
 
 ## Further Reading & Resources
 
+* [Top 10 Scams](http://www.consumerfraudreporting.org/current_top_10_scam_list.php) A list of updated scams by Consumer Fraud Reporting.
 * [PRISM Break](https://prism-break.org/en/) Resources and tools to stay up to date and secure
 * [Alternative Internet](https://redecentralize.github.io/alternative-internet/) Websites for anon and privacy
 * [Redecentralize](http://redecentralize.org/) News and updates for things that are becoming more decentralized
@@ -48,7 +49,7 @@ Encryption, Password Manager and other tools for your safety.
 ## Technical Links
 
 * [Awesome Security](https://github.com/sbilly/awesome-security): A collection of awesome software, libraries, documents, books, resources and cool stuff about security.
-* [Awesome SEC Talks](https://github.com/PaulSec/awesome-sec-talks): A collected list of awesome security talks
+* [Awesome SEC Talks](https://github.com/PaulSec/awesome-sec-talks): A collected list of awesome security talks.
 
 ## Important Videos
 
