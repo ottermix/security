@@ -38,6 +38,7 @@ Encryption, Password Manager and other tools for your safety.
 
 ## Further Reading & Resources
 
+* [Google & Faceboook - What They Collect](https://www.theguardian.com/commentisfree/2018/mar/28/all-the-data-facebook-google-has-on-you-privacy) Here is a list of the things they let you know they track
 * [Top 10 Scams](http://www.consumerfraudreporting.org/current_top_10_scam_list.php) A list of updated scams by Consumer Fraud Reporting.
 * [PRISM Break](https://prism-break.org/en/) Resources and tools to stay up to date and secure
 * [Alternative Internet](https://redecentralize.github.io/alternative-internet/) Websites for anon and privacy
