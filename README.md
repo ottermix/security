@@ -34,6 +34,7 @@ Encryption, Password Manager and other tools for your safety.
 
 ## Security Measures
 
+* [DNS Resolvers](https://blog.cloudflare.com/announcing-1111/) Change your computer / network DNS resolvers to Cloudflare's resolvers (like Google's but apparently privacy focused).  This is much more simple than it sounds, and adds a large number of security benefits.
 * [Canary Tokens](https://www.stationx.net/canarytokens/) Create little files that are placed on your computer / dropbox / etc. that will notify you if someone accesses them without your permission.  These are fake files to trip hackers since they will be looking for this information.
 
 ## Further Reading & Resources
