@@ -7,6 +7,7 @@ General thoughts and links for security.  A good portion of this information is 
 * [DuckDuckGo](http://duckduckgo.com): A tracking-free search engine
 * [Deseat Me](https://deseat.me/): A way to try and delete as much information from the internet as possible from an existing Google account.
 * [Just Delete Me](http://justdelete.me/): A website with a list of websites and how to: 1) see how difficult it is to remove your account information, and 2) instructions on how to actually remove account information.
+* [Privacy](https://privacy.com/join/VCLLJ): A website and browser extension to create temporary credit cards that can use fake addresses.  It allows you to create throwaway cards for suspicious sites and create limits of spending / stop  / start etc.
 
 ## Anonymity / Encryption Tools for Communication
 
